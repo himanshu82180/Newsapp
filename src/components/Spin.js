@@ -3,7 +3,7 @@ import './spinner.css'
 export default class Spin extends Component {
   render() {
     return (
-      <div>
+      <div className="my-3">
         <div className="windows8">
 	<div className="wBall" id="wBall_1">
 		<div className="wInnerBall"></div>
